@@ -2,8 +2,7 @@
 🔭 I 'm currently studying front-end<br/>
 
 you can contact me <a href="https://www.instagram.com/kimky_60/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kimky_60/"/></a>
-<a href="mailto:ygim36204@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ygim36204@gmail.com"></a>
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ygim36204@gmail.com)](mailto:ygim36204@gmail.com)
 
 <!-- 
 - 🔭 I 'm currently studying front-end
