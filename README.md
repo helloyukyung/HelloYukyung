@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋                                                 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 🔭 I 'm currently studying front-end<br/>
 
 you can contact me <a href="https://www.instagram.com/kimky_60/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kimky_60/"/></a>
