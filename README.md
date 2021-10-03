@@ -3,7 +3,7 @@ Yukyung Kim's git hub
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyukyung123%2Fyukyung123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-🔭 I 'm currently studying React
+🔭 Goal
 ----
 
 - 2021 목표 : React Stack 쌓기(🐣) 
