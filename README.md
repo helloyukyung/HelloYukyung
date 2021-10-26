@@ -6,8 +6,7 @@ Yukyung Kim's git hub
 🔭 Goal
 ----
 
-- 2021 목표 : React Stack 쌓기(🐣), Baekjoon<span style="color:gold"> Gold</span> 찍기
-- 미래 목표 :  ???
+- 2021 목표 : React Stack 쌓기(🐣), 1일 1commit
 
 🔭 Main Repositories
 ----
