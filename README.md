@@ -6,7 +6,7 @@ Yukyung Kim's git hub
 🔭 Goal
 ----
 
-- 2021 목표 : React Stack 쌓기🐣, 1day 1commit🔥, wordcheck 프로젝트 완성!!
+- 2021 목표 : React Stack 쌓기🐣, 1day 1commit🔥, wordcheck 프로젝트 완성🌟
 
 🔭 Main Repositories
 ----
