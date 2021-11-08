@@ -6,13 +6,13 @@ Yukyung Kim's git hub
 🔭 Goal
 ----
 
-- 2021 목표 : React Stack 쌓기🐣, 1day 1commit🔥, Gachigagae(같이가개) version 0.1.0 배포🌟
+- 2021 목표 : React Stack 쌓기🐣, 1day 1commit🔥, Gachigagae(같이가개)🐕 version 0.1.0 배포🌟
 
 🔭 Main Repositories
 ----
 - <a href="https://github.com/yukyung123/TIL">TIL</a> : Today I Learn 하루하루 배운 것, 느낀 것 정리
 - <a href="https://github.com/yukyung123/Baekjoon">Baekjoon</a> : One Day One Algorithm 
-- <a href="https://github.com/yukyung123/gachigagae">Gachigagae</a> : Gachigagae(같이가개) 
+- <a href="https://github.com/yukyung123/gachigagae">Gachigagae</a> : Gachigagae(같이가개)🐕
 
 
 
