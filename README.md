@@ -6,7 +6,7 @@ Yukyung Kim's git hub
 🔭 Goal
 ----
 
-- 2021 목표 : Typescript study, 1day 1commit🔥
+- 12월 목표 : Typescript study, 1day 1commit🔥, 워드체크 v1.0 배포
 
 🔭 Main Repositories
 ----
