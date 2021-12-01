@@ -12,7 +12,13 @@ Yukyung Kim's git hub
 ----
 - <a href="https://github.com/yukyung123/TIL">TIL</a> : Today I Learn 하루하루 배운 것, 느낀 것 정리
 - <a href="https://github.com/yukyung123/Baekjoon">Baekjoon</a> : One Day One Algorithm 
+
+🔭 Project
+----
 - <a href="https://github.com/yukyung123/gachigagae">Gachigagae</a> : Gachigagae(같이가개)🐶
+- <a href="https://github.com/wordcheck/wordcheck-web">wordCheck</a> : 워드체크
+
+
 
 
 
