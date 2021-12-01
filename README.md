@@ -6,7 +6,7 @@ Yukyung Kim's git hub
 🔭 Goal
 ----
 
-- 2021 목표 : React Stack 쌓기🐣, 1day 1commit🔥, Gachigagae(같이가개)🐶v1.0 배포
+- 2021 목표 : Typescript study, 1day 1commit🔥
 
 🔭 Main Repositories
 ----
