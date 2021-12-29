@@ -8,6 +8,6 @@ Yukyung Kim's git hub
 - <a href="https://github.com/yukyung123/gachigagae">Gachigagae</a> : Gachigagae(같이가개)
 - <a href="https://github.com/wordcheck/wordcheck-web">wordcheck</a> : 워드체크
 
-💬 CONTECT ME
+📧 CONTECT ME
 ----
 ygim36204@gmail.com
