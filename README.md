@@ -11,5 +11,6 @@ Yukyung Kim's git hub
 - <a href="https://github.com/wordcheck/wordcheck-web">wordcheck</a> : 워드체크
 
 
-💬 ASK ME ANYTHING. 
+💬 ASK ME
+----
 ygim36204@gmail.com
