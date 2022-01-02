@@ -2,7 +2,7 @@ Yukyung Kim's git hub
 ====  
 
 
-📘 I know about 
+📘 I can handle it
 ----
  - responsive web design
  - jsx 
