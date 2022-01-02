@@ -12,7 +12,7 @@ Yukyung Kim's git hub
 ----
 <a href="https://github.com/yukyung123/gachigagae"> gachigagae </a>
 
-<a herf="https://github.com/wordcheck/wordcheck-web"> wordcheck </a>
+<a href="https://github.com/wordcheck/wordcheck-web"> wordcheck </a>
 
 
 
