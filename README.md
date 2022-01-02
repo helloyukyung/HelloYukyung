@@ -1,11 +1,8 @@
 Yukyung Kim's git hub
 ====       
-📘 I know about
+<!-- 📘 I know about
 ----
-- Rendering
-- HTTP method 
-- react-router-dom(v6)
-- styled-component
+ -->
 
 
 📂 Project 
