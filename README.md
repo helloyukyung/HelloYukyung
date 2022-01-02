@@ -1,8 +1,17 @@
 Yukyung Kim's git hub
-====       
-<!-- 📘 I know about
+====  
+
+📘 in React
 ----
- -->
+ - responsive web design
+ - jsx 
+ - state/props
+<br/>
+ - axios
+ - react-router-dom
+ - styled-component
+
+
 
 
 📂 Project 
