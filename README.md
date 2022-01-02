@@ -7,9 +7,8 @@ hi, there 👻
 ----
  - responsive web design
  - jsx 
- - state/props
-
-   
+ - state/props  
+ 
  - axios
  - react-router-dom
  - styled-component
