@@ -6,7 +6,7 @@ Yukyung Kim's git hub
  - responsive web design
  - jsx 
  - state/props
-<br/>
+ 
  - axios
  - react-router-dom
  - styled-component
