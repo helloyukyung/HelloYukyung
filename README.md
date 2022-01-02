@@ -6,8 +6,7 @@ hi, there 👻
 📘 I can handle it
 ----
  - responsive web design
- - jsx 
- - state/props  
+ - jsx  
  
  - axios
  - react-router-dom
