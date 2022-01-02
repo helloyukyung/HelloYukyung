@@ -5,10 +5,10 @@ hi, there 👻
 
 📘 I can handle it
 ----
- - responsive web design
  - jsx   
- - axios
-
+ - responsive web design
+ - http method
+ 
 
 
 
