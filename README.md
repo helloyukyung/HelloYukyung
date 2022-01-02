@@ -2,8 +2,8 @@ Yukyung Kim's git hub
 ====       
 📘 I know about
 ----
-- rendering
-- http method
+- Rendering
+- HTTP method 
 - react-router-dom(v6)
 - styled-component
 
