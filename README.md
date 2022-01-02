@@ -1,12 +1,13 @@
 Yukyung Kim's git hub
 ====  
 
-📘 in React
+
+📘 I know about 
 ----
  - responsive web design
  - jsx 
  - state/props
-   
+
    
  - axios
  - react-router-dom
