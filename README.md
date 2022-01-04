@@ -13,6 +13,6 @@ hi, there 👻
 
 
 
-📧 Contect me 
+📧 Contact me 
 ----
 ygim36204@gmail.com
