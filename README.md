@@ -3,12 +3,6 @@ Yukyung Kim's git hub
 
 hi, there 👻
 
-📘 I can handle it
-----
- - jsx   
- - responsive web design
- - http method
- 
 
 
 
