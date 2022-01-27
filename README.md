@@ -1,6 +1,3 @@
-Yukyung Kim's git hub
-====  
-
 hi, there 
 
 
