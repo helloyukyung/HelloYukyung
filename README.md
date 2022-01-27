@@ -4,7 +4,7 @@ Yukyung Kim's git hub
 hi, there 
 
 
-basic skill
+🤸 Basic skill
 ----
 <a href="https://github.com/yukyung123/VanillaJS-ES"> vanillaJS-ES</a> 
 
