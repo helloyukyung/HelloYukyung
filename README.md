@@ -2,12 +2,6 @@
 hi, there 
 
 
-🤸 Basic skill
-----
-<a href="https://github.com/yukyung123/VanillaJS-ES"> vanillaJS-ES</a> 
-
-
-
 📂 Project 
 ----
 <a href="https://github.com/yukyung123/gachigagae"> gachigagae </a>  
