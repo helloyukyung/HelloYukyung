@@ -1,5 +1,4 @@
 # Yukyung's Github
-hi, there 
 
 
 📂 Project 
