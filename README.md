@@ -1,8 +1,3 @@
-# Yukyung's Github
-
-
-
-
 📂 Project 
 ----
 <a href="https://github.com/HelloYukyung/cotenote-web"> cotenote </a> <br/>
