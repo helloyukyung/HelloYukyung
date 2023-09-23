@@ -1,8 +1,3 @@
-📂 Project 
-----
-<a href="https://github.com/cotenote/cotenote-web"> cotenote </a> <br/>
-<a href="https://github.com/HelloYukyung/gachigagae"> gachigagae </a>  
-
 📰 Articles & Translations
 ----
 
